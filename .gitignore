@@ -1,0 +1,36 @@
+# Compiled files
+*.o
+*.out
+*.exe
+*.class
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Node modules
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Build folders
+build/
+dist/
+
+# Environment variables
+.env
+.vscode
+.ipynb_checkpoints
