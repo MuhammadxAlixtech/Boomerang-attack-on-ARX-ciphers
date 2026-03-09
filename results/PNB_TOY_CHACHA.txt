@@ -1,0 +1,239 @@
+For Chacha 64 bits for threshold 0.4
+For 3 Rounds
+Bit:0 1 
+Bit:1 1 
+Bit:2 1 
+Bit:3 1 
+Bit:4 1 
+Bit:5 1 
+Bit:6 1 
+Bit:7 1 
+Bit:10 0.698433 
+Bit:11 0.531044 
+Bit:15 0.716393 
+Bit:16 1 
+Bit:17 1 
+Bit:18 1 
+Bit:19 1 
+Bit:20 1 
+Bit:21 1 
+Bit:22 1 
+Bit:23 1 
+Bit:24 1 
+Bit:25 1 
+Bit:26 1 
+Bit:27 1 
+Bit:28 1 
+Bit:29 1 
+Bit:30 1 
+Bit:31 1 
+Bit:32 1 
+Bit:33 1 
+Bit:34 1 
+Bit:35 1 
+Bit:36 1 
+Bit:37 1 
+Bit:38 1 
+Bit:39 1 
+Bit:41 0.539551 
+Bit:46 0.506805 
+Bit:47 0.464592 
+Bit:48 1 
+Bit:49 1 
+Bit:50 1 
+Bit:51 1 
+Bit:52 1 
+Bit:53 1 
+Bit:54 1 
+Bit:55 1 
+Bit:56 1 
+Bit:57 1 
+Bit:58 1 
+Bit:59 1 
+Bit:60 1 
+Bit:61 1 
+Bit:62 1 
+Bit:63 1 
+PNB Count 54
+
+For 3.5 Rounds
+Bit:0 1 
+Bit:1 1 
+Bit:2 1 
+Bit:3 1 
+Bit:4 1 
+Bit:5 1 
+Bit:6 1 
+Bit:7 1 
+Bit:13 0.813988 
+Bit:14 0.745064 
+Bit:15 0.709251 
+Bit:17 0.955696 
+Bit:18 0.914047 
+Bit:19 0.843781 
+Bit:20 0.75325 
+Bit:21 0.635658 
+Bit:22 0.507927 
+Bit:23 0.465355 
+Bit:24 1 
+Bit:25 1 
+Bit:26 1 
+Bit:27 1 
+Bit:28 1 
+Bit:29 1 
+Bit:30 1 
+Bit:31 1 
+Bit:32 1 
+Bit:33 1 
+Bit:34 1 
+Bit:35 1 
+Bit:36 1 
+Bit:37 1 
+Bit:38 1 
+Bit:39 1 
+Bit:41 0.542175 
+Bit:46 0.51062 
+Bit:47 0.466957 
+Bit:50 0.697861 
+Bit:51 0.532257 
+Bit:55 0.717804 
+Bit:56 0.815071 
+Bit:57 0.700729 
+Bit:58 0.531326 
+Bit:62 1 
+Bit:63 1 
+PNB Count 45
+
+For 4 Rounds
+Bit:0 1 
+Bit:1 1 
+Bit:2 1 
+Bit:3 1 
+Bit:4 1 
+Bit:5 1 
+Bit:6 1 
+Bit:7 1 
+Bit:14 0.86824 
+Bit:15 0.848587 
+Bit:18 0.700226 
+Bit:19 0.531952 
+Bit:23 0.71769 
+Bit:24 0.698975 
+Bit:25 0.466866 
+Bit:31 1 
+Bit:32 0.465965 
+Bit:38 1 
+Bit:39 1 
+Bit:41 0.537621 
+Bit:46 0.506622 
+Bit:47 0.462891 
+Bit:55 0.600174 
+Bit:57 0.539726 
+Bit:62 0.509697 
+Bit:63 0.466026 
+PNB Count 26
+
+For 4.5 Rounds
+Bit:0 1 
+Bit:1 1 
+Bit:2 1 
+Bit:3 1 
+Bit:4 1 
+Bit:5 1 
+Bit:6 1 
+Bit:7 1 
+Bit:9 0.698647 
+Bit:10 0.529739 
+Bit:32 0.464546 
+Bit:38 1 
+Bit:39 1 
+Bit:46 0.484215 
+Bit:47 0.413803 
+PNB Count 15 
+
+For 5 Rounds
+Bit:0 0.698608 
+Bit:1 0.463783 
+Bit:7 1 
+Bit:15 0.520157 
+Bit:38 1 
+Bit:39 1 
+PNB Count 6 
+
+
+For Chacha 32 bit key for threshold 0.3
+For 3 rounds
+Bit:0 1 
+Bit:1 1 
+Bit:2 1 
+Bit:3 1 
+Bit:4 1 
+Bit:5 1 
+Bit:6 1 
+Bit:7 1 
+Bit:15 0.358772 
+Bit:16 1 
+Bit:17 1 
+Bit:18 1 
+Bit:19 1 
+Bit:20 1 
+Bit:21 1 
+Bit:22 1 
+Bit:23 1 
+Bit:24 1 
+Bit:25 1 
+Bit:26 1 
+Bit:27 1 
+Bit:28 1 
+Bit:29 1 
+Bit:30 1 
+Bit:31 1 
+PNB Count 25
+
+For 3.5 Rounds
+Bit:0 1 
+Bit:1 1 
+Bit:2 1 
+Bit:3 1 
+Bit:4 1 
+Bit:5 1 
+Bit:6 1 
+Bit:7 1 
+Bit:14 0.440811 
+Bit:15 0.353188 
+Bit:18 0.667267 
+Bit:19 0.486595 
+Bit:23 0.355011 
+Bit:24 0.812836 
+Bit:25 0.69783 
+Bit:26 0.53038 
+Bit:27 0.321518 
+Bit:30 1 
+Bit:31 1 
+PNB Count 19
+
+For 4 Rounds
+Bit:0 0.467552 
+Bit:1 0.312904 
+Bit:6 1 
+Bit:7 1 
+Bit:14 0.484566 
+Bit:15 0.416489 
+Bit:23 0.50795 
+Bit:31 0.465805 
+PNB Count 8
+
+For 4.5 Rounds
+Bit:0 0.463409 
+Bit:1 0.311638 
+Bit:6 1 
+Bit:7 1 
+Bit:14 0.352249 
+Bit:15 0.420319 
+PNB Count 6 
+
+For 5 Rounds
+Bit:7 1 
+PNB Count 1 
+
+For Chacha 64 bit Key for threshold 0.3

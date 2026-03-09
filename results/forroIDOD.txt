@@ -1,0 +1,24 @@
+4 0 10 0
+Probability:0.500142 Bias:0.000284195
+4 1 10 0
+Probability:0.499871 Bias:-0.000257492
+4 2 10 0
+Probability:0.500157 Bias:0.000314713
+4 3 10 0
+Probability:0.499447 Bias:-0.00110626
+4 4 10 0
+Probability:0.499743 Bias:-0.000514984
+4 5 10 0
+Probability:0.498698 Bias:-0.00260353
+4 6 10 0
+Probability:0.499934 Bias:-0.000131607
+4 7 10 0
+Probability:0.499267 Bias:-0.00146675
+4 8 10 0
+Probability:0.500547 Bias:0.00109482
+4 9 10 0
+Probability:0.499823 Bias:-0.000354767
+4 10 10 0
+Probability:0.500105 Bias:0.000209808
+4 11 10 0
+Probability:0.500818 Bias:0.00163651
